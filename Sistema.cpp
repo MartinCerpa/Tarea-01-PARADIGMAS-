@@ -1,5 +1,4 @@
 #include "Sistema.h"
-#hola soy martin
 
 std::string Sistema::seleccionarIntensidad() {
     int opcion;
@@ -505,7 +504,6 @@ void Sistema::generarRutina() {
 
     cout << "\n=== GENERAR RUTINA ===" << endl;
 
-    string nombreCliente;
     do {
         cout << "Nombre del cliente: ";
         getline(cin, nombreCliente);
