@@ -1,4 +1,5 @@
 #include "Sistema.h"
+#hola soy martin
 
 std::string Sistema::seleccionarIntensidad() {
     int opcion;
